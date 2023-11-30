@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Simulacro Examen</string>
+    <string name="textViewIdTlf">Id TLF</string>
+    <string name="textViewTlf">Telefono</string>
+    <string name="imageViewTlf">Icono Teléfono</string>
+    <string name="editTextNumLLamar">Introduce un número de TLF</string>
+    <string name="buttonLlamar">Llamar</string>
+    <string name="imageButton2">Boton imagen</string>
+</resources>
